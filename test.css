@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+  margin: 0 auto;
+}
+.h1 {
+  color: green;
+  font-weight: bold;
+}
+.norm {
+  color: rgb(7, 7, 7);
+  font-style: italic;
+}
+ul {
+  color: brown;
+  display: inline-block; 
+}
+li {
+  text-align: left;
+}
